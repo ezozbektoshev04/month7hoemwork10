@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
+
+.home {
+  margin-top: 126px;
+  .main {
+    background-image: url("/image3.png");
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    .container {
+      padding-top: 170px;
+      padding-bottom: 246px;
+      .p1 {
+        color: #68a47f;
+        // font-family: Yellowtail;
+        font-family: "Yellowtail", cursive;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
+      .p2 {
+        color: #274c5b;
+        max-width: 463px;
+        font-size: 67px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        padding-bottom: 23px;
+      }
+      .btn1 {
+        color: #274c5b;
+        // font-family: Roboto;
+        border-radius: 16px;
+        background: #efd372;
+        display: flex;
+        align-items: center;
+        padding: 28px 39px;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        border: none;
+        gap: 10px;
+      }
+    }
+  }
+  .info {
+    padding-bottom: 145px;
+    .container {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      //   flex-wrap: wrap;
+      .card {
+        position: relative;
+        .content {
+          position: absolute;
+          top: 100px;
+          left: 65px;
+          .p3 {
+            color: #fff;
+            font-family: "Yellowtail", cursive;
+            font-size: 36px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+          }
+          .p4 {
+            color: #fff;
+            max-width: 277px;
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 800;
+            line-height: normal;
+          }
+          .p5 {
+            color: #7eb693;
+            font-family: "Yellowtail", cursive;
+            font-size: 36px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+          }
+          .p6 {
+            color: #274c5b;
+            max-width: 277px;
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 800;
+            line-height: normal;
+          }
+        }
+      }
+    }
+  }
+  .home-about {
+    background-color: #f9f8f8;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    .container {
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+      gap: 30px;
+      .image-box {
+        .image7 {
+          width: 733px;
+          width: 697px;
+        }
+      }
+      .d1 {
+        .p1 {
+          color: #7eb693;
+          font-family: "Yellowtail", cursive;
+          font-size: 36px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: normal;
+        }
+        .p2 {
+          padding-top: 8px;
+          padding-bottom: 14px;
+          color: #274c5b;
+          max-width: 600px;
+          font-size: 50px;
+          font-style: normal;
+          font-weight: 800;
+          line-height: normal;
+        }
+        .p3 {
+          color: #525c60;
+          padding-bottom: 46px;
+          max-width: 600px;
+          //   font-family: Open Sans;
+          font-size: 18px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: 165.4%; /* 29.772px */
+        }
+        .list {
+          display: flex;
+          align-items: center;
+          gap: 19px;
+          padding-bottom: 30px;
+          .d2 {
+            .p4 {
+              color: #274c5b;
+              font-size: 25px;
+              font-style: normal;
+              font-weight: 800;
+              line-height: normal;
+            }
+            .p5 {
+              color: #525c60;
+              padding-top: 7px;
+              max-width: 444px;
+              font-size: 18px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: 165.4%; /* 29.772px */
+            }
+          }
+        }
+        .btn2 {
+          background-color: #274c5b;
+          // font-family: Roboto;
+          border-radius: 16px;
+          color: #fff;
+          display: flex;
+          align-items: center;
+          padding: 28px 39px;
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: normal;
+          border: none;
+          gap: 10px;
+        }
+      }
+    }
+  }
+}

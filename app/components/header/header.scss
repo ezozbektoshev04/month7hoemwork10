@@ -1,0 +1,49 @@
+header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: white;
+  // background-color: #274c5b;
+  z-index: 99;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .nav-links {
+      display: flex;
+      align-items: center;
+      column-gap: 30px;
+      .nav-link {
+        text-decoration: none;
+        color: #274c5b;
+        // font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+      }
+    }
+    .nav-items {
+      .field {
+        position: relative;
+        .input1 {
+          padding: 12px;
+          border-radius: 36px;
+          background: #fafafa;
+          width: 376px;
+          height: 66px;
+          outline: none;
+          border: none;
+        }
+        .search-icon {
+          position: absolute;
+          top: 5px;
+          right: 5px;
+        }
+      }
+    }
+  }
+}

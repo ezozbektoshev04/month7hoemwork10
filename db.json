@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Calabrese Broccoli",
+      "price": "$20.00",
+      "priceSell": "$13.00",
+      "star": "/image26.svg",
+      "catalog": "Vegetable",
+      "image": "/image14.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 2,
+      "catalog": "Fresh",
+      "name": "Fresh Banana Fruites",
+      "price": "$20.00",
+      "priceSell": "$13.00",
+      "star": "/image26.svg",
+      "image": "/image14.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 2,
+      "catalog": "Vegetable",
+      "name": "Calabrese Broccoli",
+      "price": "$20.00",
+      "priceSell": "$14.00",
+      "star": "/image26.svg",
+      "image": "/image15.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 3,
+      "catalog": "Millets",
+      "name": "White Nuts",
+      "price": "$20.00",
+      "priceSell": "$15.00",
+      "star": "/image26.svg",
+      "image": "/image16.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 4,
+      "catalog": "Vegetable",
+      "name": "Vegan Red Tomato",
+      "price": "$20.00",
+      "priceSell": "$17.00",
+      "star": "/image26.svg",
+      "image": "/image17.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 5,
+      "catalog": "Health",
+      "name": "Mung Bean",
+      "price": "$20.00",
+      "priceSell": "$11.00",
+      "star": "/image26.svg",
+      "image": "/image18.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 6,
+      "catalog": "Nuts",
+      "name": "Brown Hazelnut",
+      "price": "$20.00",
+      "priceSell": "$12.00",
+      "star": "/image26.svg",
+      "image": "/image19.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 7,
+      "catalog": "Fresh",
+      "name": "Eggs",
+      "price": "$20.00",
+      "priceSell": "$17.00",
+      "star": "/image26.svg",
+      "image": "/image20.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 8,
+      "catalog": "Fresh",
+      "name": "Zelco Suji Elaichi Rusk",
+      "price": "$20.00",
+      "priceSell": "$15.00",
+      "star": "/image26.svg",
+      "image": "/image21.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 9,
+      "catalog": "Health",
+      "name": "Mung Bean",
+      "price": "$20.00",
+      "priceSell": "$11.00",
+      "star": "/image26.svg",
+      "image": "/image22.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 10,
+      "catalog": "Nuts",
+      "name": "White Hazelnut",
+      "price": "$20.00",
+      "priceSell": "$12.00",
+      "star": "/image26.svg",
+      "image": "/image23.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 11,
+      "catalog": "Fresh",
+      "name": "Fresh Corn",
+      "price": "$20.00",
+      "priceSell": "$17.00",
+      "star": "/image26.svg",
+      "image": "/image24.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    },
+    {
+      "id": 12,
+      "catalog": "Fresh",
+      "name": "Organic Almonds",
+      "price": "$20.00",
+      "priceSell": "$15.00",
+      "star": "/image26.svg",
+      "image": "/image25.png",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven"
+    }
+  ]
+}
